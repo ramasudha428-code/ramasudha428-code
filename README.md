@@ -15,11 +15,6 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 *Explore my education, technical skills, projects, and career interests.*
 
 ---
-
-## 🛠️ Technical Skills
-
-
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
