@@ -18,22 +18,23 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- Python
 
-**Web Technologies**
-- HTML, CSS, JavaScript
 
-**Computer Science Fundamentals**
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
-- Problem-Solving
+## 🛠️ Technical Skills
 
-**Tools**
-- Git and GitHub
-- Visual Studio Code
-- Microsoft Excel
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -70,24 +71,6 @@ A Python project that simulates basic ATM operations and banking transactions.
 To start my career as a software developer, apply my technical knowledge to real-world challenges, collaborate with development teams, and continuously grow as a professional.
 
 ---
-
-## 🛠️ Languages and Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yanamala-ramasudha-266618446/)
