@@ -10,7 +10,7 @@ I enjoy learning new technologies, developing projects, and continuously improvi
 
 ## 📄 My Resume
 
-📌 **[View My Resume (PDF)](./Ramasudha_Resume.pdf)**
+📌 **[View My Resume (PDF)](./sudha_resume.pdf)**
 
 *Explore my education, technical skills, projects, and career interests.*
 
